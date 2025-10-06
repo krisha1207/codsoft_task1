@@ -1,2 +1,2 @@
-# codsoft_task1
-codsoft internship task 1 -  simple calculator in python
+# codsoft_task2
+codsoft internship task 2 -  simple calculator in python
